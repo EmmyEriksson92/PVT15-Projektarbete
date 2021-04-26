@@ -1,0 +1,66 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Flutter / Dart / Pub ###
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+/pubspec.lock
+.DS_Store
+/android/local.properties
+
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+.flutter-plugins
+.dart_tool/flutter_build/e1314b54b6aa5455192a8291d15d68f2/.filecache
+.dart_tool/flutter_build/e1314b54b6aa5455192a8291d15d68f2/debug_android_application.stamp
+.flutter-plugins
+.dart_tool/flutter_build/e1314b54b6aa5455192a8291d15d68f2/flutter_assets.d
+.dart_tool/flutter_build/e1314b54b6aa5455192a8291d15d68f2/kernel_snapshot.d
+.flutter-plugins-dependencies
+local.properties
+.gradle/4.4.1/fileChanges/last-build.bin
+.gradle/4.4.1/fileHashes/fileHashes.lock
+.gradle/4.4.1/taskHistory/taskHistory.lock
+.gradle/6.4.1/gc.properties
+.gradle/6.4.1/executionHistory/executionHistory.bin
+.gradle/6.4.1/executionHistory/executionHistory.lock
+.gradle/6.4.1/fileChanges/last-build.bin
+.gradle/6.4.1/fileHashes/fileHashes.lock
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+.gradle/buildOutputCleanup/cache.properties
+.gradle/checksums/checksums.lock
+.gradle/vcs-1/gc.properties

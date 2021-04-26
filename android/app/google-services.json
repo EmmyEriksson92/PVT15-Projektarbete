@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "842121558764",
+      "firebase_url": "https://pvt-15.firebaseio.com",
+      "project_id": "pvt-15",
+      "storage_bucket": "pvt-15.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:842121558764:android:a65f686b233d36ce8283c9",
+          "android_client_info": {
+            "package_name": "com.example.pvt_15"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "842121558764-r8f0qj5voohhd920pm6h1vos5ouasao1.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCgEhFYcqM-XiDEt4R3a0qeOf6g65NVVfc"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "842121558764-r8f0qj5voohhd920pm6h1vos5ouasao1.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

@@ -1,0 +1,3601 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 97,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1663145401718599",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153299.3317,
+                    6579198.4177,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 16631454,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "Offentlig toalett",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "Offentlig toalett",
+                "Index": "Offentlig toalett",
+                "Adress": "Klara Mälarstrand 4",
+                "Status": "Driftsatt",
+                "Typ": null,
+                "Beskrivning": "3st toaletter 1st tillgänglighetsanpassad (säsongs öppna)",
+                "Färg": null,
+                "Driftansvar": "Trafikkontoret",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201902270800,
+                "VALID_TO": null,
+                "CID": 1663145401718599,
+                "CREATE_DATE": 201902270903,
+                "CHANGE_DATE": 201902270903
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1674386801793095",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146342.8116,
+                    6587232.6279,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 16743868,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150068BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150068BT",
+                "Index": "1150068BT",
+                "Adress": "Jyllandsgatan 16",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grön",
+                "Driftansvar": "JCDeavaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201904301200,
+                "VALID_TO": null,
+                "CID": 1674386801793095,
+                "CREATE_DATE": 201904301224,
+                "CHANGE_DATE": 202002251450
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1674386901811746",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151593.647,
+                    6579616.8709,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 16743869,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150020BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150020BT",
+                "Index": "1150020BT",
+                "Adress": "Fridhemsplan 23A",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighets anpassad",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201904301200,
+                "VALID_TO": null,
+                "CID": 1674386901811746,
+                "CREATE_DATE": 201904301227,
+                "CHANGE_DATE": 202002251605
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1675458901802999",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154192.028,
+                    6578703.9757,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 16754589,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "Inbyggd 101",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "Inbyggd 101",
+                "Index": "Inbyggd 101",
+                "Adress": "Österlånggatan 45",
+                "Status": "Driftsatt",
+                "Typ": null,
+                "Beskrivning": null,
+                "Färg": "Grön",
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201905070700,
+                "VALID_TO": null,
+                "CID": 1675458901802999,
+                "CREATE_DATE": 201905070715,
+                "CHANGE_DATE": 201905070715
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530323101134715",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151412.487215,
+                    6577310.849696,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303231,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150027BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150027BT",
+                "Index": "1150027BT",
+                "Adress": "Liljeholmen - Katrinebergsbacken 4",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530323101134715,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201801081657
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530323301134717",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151389.717292,
+                    6578530.158424,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303233,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150029BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150029BT",
+                "Index": "1150029BT",
+                "Adress": "Långholmsbadet",
+                "Status": "Driftsatt",
+                "Typ": "Jumbo",
+                "Beskrivning": "Tillgänglighetsanpassad WC, 2 x WC, 1 x urinoar",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530323301134717,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201801081657
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530323401670186",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154761.3144,
+                    6577923.4886,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303234,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150030BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150030BT",
+                "Index": "1150030BT",
+                "Adress": "Tjärhovsplan",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530323401670186,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201901281349
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530323601134720",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152923.331225,
+                    6575746.239487,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303236,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150032BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150032BT",
+                "Index": "1150032BT",
+                "Adress": "Årsta Torg",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530323601134720,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201801081657
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530323801670131",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    155192.8711,
+                    6577386.7607,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303238,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150034BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150034BT",
+                "Index": "1150034BT",
+                "Adress": "Stora Mejtens Gränd 12",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530323801670131,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902260828
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530324001134724",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153089.990497,
+                    6580644.048966,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303240,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150036BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150036BT",
+                "Index": "1150036BT",
+                "Adress": "Drottninggatan",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530324001134724,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201801081657
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530324101670187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147015.8386,
+                    6583102.9129,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303241,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150037BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150037BT",
+                "Index": "1150037BT",
+                "Adress": "Ronja Rövardotters stig",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530324101670187,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201901281350
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538072601664439",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153951.931,
+                    6579106.3499,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380726,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "64",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "64",
+                "Index": "64",
+                "Adress": "Slottskajen - Stallbron",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 101",
+                "Beskrivning": "Tillgänglighetsanpassad, integrerad cykelpump, kortbetalning",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538072601664439,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201901241135
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538074501186029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145800.239,
+                    6585977.842,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380745,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "Toalett",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "Toalett",
+                "Index": "Toalett",
+                "Adress": "Rinkebystråket 55   ",
+                "Status": "Driftsatt",
+                "Typ": null,
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538074501186029,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201902110648
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530322701670122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153148.1552,
+                    6579983.7685,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303227,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150022BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150022BT",
+                "Index": "1150022BT",
+                "Adress": "Norra Bantorget - Vasagatan 59",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön/spegel",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530322701670122,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902260804
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530322501670125",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154934.6924,
+                    6577843.6089,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303225,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150018BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150018BT",
+                "Index": "1150018BT",
+                "Adress": "Stigbergsparken - Folkkungagatn 109",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530322501670125,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902260812
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530324901460628",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    155389.1945,
+                    6577541.8282,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303249,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150048BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150048BT",
+                "Index": "1150048BT",
+                "Adress": "Bondegatan 73 - Fotbollsplan",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530324901460628,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902260817
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530325301460638",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    155425.2434,
+                    6573770.4277,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303253,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150053BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150053BT",
+                "Index": "1150053BT",
+                "Adress": "Skogskyrkogården T-bana - Sockenvägen 488A",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530325301460638,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902260833
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538075001186034",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152180.58,
+                    6577532.932,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380750,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "274",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "274",
+                "Index": "274",
+                "Adress": "Tantolunden-Skarpskyttestigen 6   ",
+                "Status": "Driftsatt",
+                "Typ": "Tetragon 151",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538075001186034,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201902260856
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538073201186016",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    155866.25,
+                    6582455.335,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380732,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "107",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "107",
+                "Index": "107",
+                "Adress": "Gasverksvägen 52 - vid TB",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 101",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538073201186016,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201802282113
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538074801186032",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153988.669,
+                    6579271.195,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380748,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "53",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "53",
+                "Index": "53",
+                "Adress": "Strömparterren 3   ",
+                "Status": "Driftsatt",
+                "Typ": "Inbygg. 100",
+                "Beskrivning": "Tillgänglighetsanpassad, kortbetalning",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538074801186032,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201902261008
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530324701460630",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    155565.1474,
+                    6582203.4073,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303247,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150045BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150045BT",
+                "Index": "1150045BT",
+                "Adress": "Hjorthagen/Artemistgatan 91",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530324701460630,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902261200
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530326301670139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150218.6966,
+                    6579600.8492,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303263,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150063BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150063BT",
+                "Index": "1150063BT",
+                "Adress": "Adlerbethsgatan 23",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530326301670139,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902221253
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530324501670144",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142572.7844,
+                    6583590.2023,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303245,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150041BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150041BT",
+                "Index": "1150041BT",
+                "Adress": "Lyckselevägen 58  Grötfatet parklek",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530324501670144,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201901281306
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530325801717130",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152966.9952,
+                    6581428.1845,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303258,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150058BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150058BT",
+                "Index": "1150058BT",
+                "Adress": "Vanadislunden - Sveavägen 127",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530325801717130,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201906100744
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530324201460640",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152733.2497,
+                    6581980.648,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303242,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150038BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150038BT",
+                "Index": "1150038BT",
+                "Adress": "Brunnsviksvägen, Bellevueparken",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530324201460640,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201810150722
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538074601186030",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    155454.56,
+                    6578831.366,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380746,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "39",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "39",
+                "Index": "39",
+                "Adress": "Allmänna Gränd-Djurgården   ",
+                "Status": "Driftsatt",
+                "Typ": "Tetragon 111",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538074601186030,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201802282113
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530321501709364",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150279.3503,
+                    6580545.6734,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303215,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150004BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150004BT",
+                "Index": "1150004BT",
+                "Adress": "Hornsberg strand 77 - Pär Lagerkvists gata",
+                "Status": "Driftsatt",
+                "Typ": "Jumbo",
+                "Beskrivning": "Tillgänglighetsanpassad WC, 2 x WC, 1 x urinoar",
+                "Färg": "Svart",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530321501709364,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902261231
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538074701186031",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141083.86,
+                    6583557.277,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380747,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "58",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "58",
+                "Index": "58",
+                "Adress": "Hässelby torg 3   ",
+                "Status": "Driftsatt",
+                "Typ": "Tetragon 111",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538074701186031,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201802282113
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530326201744283",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154416.1606,
+                    6570922.2221,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303262,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150062BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150062BT",
+                "Index": "1150062BT",
+                "Adress": "Hökarängen - Ciggarvägen 14 - Parklek",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530326201744283,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201910281031
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530322801670170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144208.6029,
+                    6585326.4999,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303228,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150023BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150023BT",
+                "Index": "1150023BT",
+                "Adress": "Spånga stationsplan 9",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530322801670170,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902261329
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530321401670174",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154196.3196,
+                    6580264.9498,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303214,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150002BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150002BT",
+                "Index": "1150002BT",
+                "Adress": "Sturegatan 12 - Humlegården",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön/spegel",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530321401670174,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902261334
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530322901134713",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147995.3524,
+                    6574479.2843,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303229,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150024BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150024BT",
+                "Index": "1150024BT",
+                "Adress": "Fruängsplan 4",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530322901134713,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902261341
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530324301670181",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144594.7266,
+                    6586736.0687,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303243,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150039BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150039BT",
+                "Index": "1150039BT",
+                "Adress": "Östra Nydalsbron, Nydalsparken",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Röd",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530324301670181,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902221306
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538072701186011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152988.491,
+                    6579085.031,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380727,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150077BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150077BT",
+                "Index": "1150077BT",
+                "Adress": "Norr Mälarstrand 3 - kajen",
+                "Status": "Driftsatt",
+                "Typ": "Jumbo",
+                "Beskrivning": "Tillgänglighetsanpassad WC, 2 x WC och 1 x urionar",
+                "Färg": "Grå",
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538072701186011,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 202002241529
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538072401186008",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154205.439,
+                    6579990.119,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380724,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "56",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "56",
+                "Index": "56",
+                "Adress": "Birger Jarlsgatan 16",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 101",
+                "Beskrivning": "Tillgänglighetsanpassad, integrerad cykelpump",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538072401186008,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201802282113
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538074901186033",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142728.971,
+                    6583029.829,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380749,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150081BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150081BT",
+                "Index": "1150081BT",
+                "Adress": "Vällinby torg - Vittangiplan 28",
+                "Status": "Utställd - ej i drift",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538074901186033,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 202002251453
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538071601186000",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154488.344,
+                    6575458.348,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380716,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "47",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "47",
+                "Index": "47",
+                "Adress": "Arenavägen - Palmfeltsvägen",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 020",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538071601186000,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201802282113
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530322301460623",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146098.423,
+                    6575721.9887,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303223,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150016BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150016BT",
+                "Index": "1150016BT",
+                "Adress": "Bredäng/ Trissan parklek",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Röd",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530322301460623,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201810150657
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530323701134721",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154319.494124,
+                    6578926.583813,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303237,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150033BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150033BT",
+                "Index": "1150033BT",
+                "Adress": "Skeppsbron",
+                "Status": "Driftsatt",
+                "Typ": "Jumbo",
+                "Beskrivning": "Tillgänglighetsanpassad WC, 2 x WC, 1 x urinoar",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530323701134721,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201801081657
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530322601134710",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153358.469556,
+                    6577615.348951,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303226,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150019BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150019BT",
+                "Index": "1150019BT",
+                "Adress": "Bergsgruvan",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530322601134710,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201801081657
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538072201186006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154284.677,
+                    6579752.826,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380722,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "48",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "48",
+                "Index": "48",
+                "Adress": "Hamngatan 2",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 101",
+                "Beskrivning": "Tillgänglighetsanpassad, integrerad cykelpump",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538072201186006,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201802282113
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530321601709366",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151239.624,
+                    6578967.8192,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303216,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150008BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150008BT",
+                "Index": "1150008BT",
+                "Adress": "Smedsuddsbadet",
+                "Status": "Driftsatt",
+                "Typ": "Jumbo",
+                "Beskrivning": "Tillgänglighetsanpassad WC, 2 x WC, 1 x urinoar",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530321601709366,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902211137
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530322201460626",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151624.0883,
+                    6576939.2967,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303222,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150014BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150014BT",
+                "Index": "1150014BT",
+                "Adress": "Sjövikstorget",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530322201460626,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201810150659
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530322101134705",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149838.891543,
+                    6575858.470471,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303221,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150013BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150013BT",
+                "Index": "1150013BT",
+                "Adress": "Telefonplan/ Mikrofonvägen",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530322101134705,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201801081657
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538072001186004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154160.138,
+                    6579001.246,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380720,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "37",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "37",
+                "Index": "37",
+                "Adress": "Slottsbacken - Österlånggatan",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 101",
+                "Beskrivning": "Tillgänglighetsanpassad, integrerad cykelpump",
+                "Färg": "Grön",
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538072001186004,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201905141354
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538071701186001",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152445.366,
+                    6571984.449,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380717,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "310",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "310",
+                "Index": "310",
+                "Adress": "Skebokvarnsvägen - busstorget",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 101",
+                "Beskrivning": "Tillgänglighetsanpassad, integrerad cykelpump",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538071701186001,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201802282113
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1570334401415406",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150443.1725,
+                    6578675.7088,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15703344,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "Offentlig toalett ",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "Offentlig toalett ",
+                "Index": "Offentlig toalett ",
+                "Adress": "Primusgatan 118 Luxparken",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": null,
+                "Färg": "Grön",
+                "Driftansvar": "JC Decaux",
+                "Huvudman": "Trafiksystem",
+                "Bilaga": null,
+                "VALID_FROM": 201809120900,
+                "VALID_TO": null,
+                "CID": 1570334401415406,
+                "CREATE_DATE": 201809120955,
+                "CHANGE_DATE": 201809120955
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538072501186009",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146203.407,
+                    6575506.132,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380725,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "62",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "62",
+                "Index": "62",
+                "Adress": "Bredängs Alle under TB",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 101",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538072501186009,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201802282113
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538071801186002",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153548.046,
+                    6578142.673,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380718,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150085BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150085BT",
+                "Index": "1150085BT",
+                "Adress": "Mariatorget 4",
+                "Status": "Utställd - ej i drift",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538071801186002,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 202002251506
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538071401185998",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154747.244,
+                    6571823.544,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380714,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150071BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150071BT",
+                "Index": "1150071BT",
+                "Adress": "Majrovägen - Lingvägen",
+                "Status": "Utställd - ej i drift",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538071401185998,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 202002251512
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530323001460637",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157466.2971,
+                    6573447.361,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303230,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150025BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150025BT",
+                "Index": "1150025BT",
+                "Adress": "Bagarmossen C t-bana",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530323001460637,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201810150718
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530321701134701",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151476.347956,
+                    6579205.657832,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303217,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150009BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150009BT",
+                "Index": "1150009BT",
+                "Adress": "Rålambshovsparken",
+                "Status": "Driftsatt",
+                "Typ": "Jumbo",
+                "Beskrivning": "Tillgänglighetsanpassad WC, 2 x WC, 1 x urinoar",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530321701134701,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201801081657
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530324801134732",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152121.6648,
+                    6580505.5711,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303248,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150047BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150047BT",
+                "Index": "1150047BT",
+                "Adress": "Sankt Eriksplan 6C",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530324801134732,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201906100743
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530321801134702",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146738.5666,
+                    6587562.652,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303218,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150010BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150010BT",
+                "Index": "1150010BT",
+                "Adress": "Kista Busstorg",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Spegel",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530321801134702,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902221307
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1567227601396385",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150113.8115,
+                    6580340.2519,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15672276,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "Offentlig toalett",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "Offentlig toalett",
+                "Index": "Offentlig toalett",
+                "Adress": "Elersvägen 50",
+                "Status": "Driftsatt",
+                "Typ": "Inbygg. 100",
+                "Beskrivning": null,
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201808130800,
+                "VALID_TO": null,
+                "CID": 1567227601396385,
+                "CREATE_DATE": 201808130807,
+                "CHANGE_DATE": 201905061609
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1659928601688845",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150163.4216,
+                    6579429.6455,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 16599286,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "Offentlig toalett",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "Offentlig toalett",
+                "Index": "Offentlig toalett",
+                "Adress": "Frödingsvägen 13",
+                "Status": "Driftsatt",
+                "Typ": null,
+                "Beskrivning": "Inbyggd i byggnad",
+                "Färg": null,
+                "Driftansvar": "Trafikkontoret",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201902081000,
+                "VALID_TO": null,
+                "CID": 1659928601688845,
+                "CREATE_DATE": 201902081058,
+                "CHANGE_DATE": 201902081058
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530323201134716",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153153.003854,
+                    6580380.617041,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303232,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150028BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150028BT",
+                "Index": "1150028BT",
+                "Adress": "Tegnerlunden",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530323201134716,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201801081657
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530323501460632",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    155460.7773,
+                    6580909.0805,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303235,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150031BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150031BT",
+                "Index": "1150031BT",
+                "Adress": "Tessinparken - De Geersgatan 13",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530323501460632,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902261400
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538074101186025",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154680.569,
+                    6580461.387,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380741,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "290",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "290",
+                "Index": "290",
+                "Adress": "Karlavägen - Sibyllegatan",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 101",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538074101186025,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201802282113
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530321901460634",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153224.3729,
+                    6580791.2064,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303219,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150011BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150011BT",
+                "Index": "1150011BT",
+                "Adress": "Observatorielunden/Sveavägen 67A",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530321901460634,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902260822
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530322001134704",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143400.88,
+                    6581378.4256,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303220,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150012BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150012BT",
+                "Index": "1150012BT",
+                "Adress": "Blackebergsplan 2",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530322001134704,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902261009
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530324601670165",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150196.2662,
+                    6579824.9245,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303246,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150044BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150044BT",
+                "Index": "1150044BT",
+                "Adress": "Kristineberg T-bana - Nordenflychtsvägen 11",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530324601670165,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902261314
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530325701688888",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157591.4383,
+                    6572338.0852,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303257,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150057BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150057BT",
+                "Index": "1150057BT",
+                "Adress": "Skarpnäcks Állé",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530325701688888,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201910281032
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1659929701688853",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154949.3408,
+                    6578026.0849,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 16599297,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "Offentlig toalett",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "Offentlig toalett",
+                "Index": "Offentlig toalett",
+                "Adress": "Fjällgatan 37",
+                "Status": "Driftsatt",
+                "Typ": null,
+                "Beskrivning": "Inbyggd endast i drift sommartid",
+                "Färg": "Grön",
+                "Driftansvar": "Fjällgatans cafestuga",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201902081100,
+                "VALID_TO": null,
+                "CID": 1659929701688853,
+                "CREATE_DATE": 201902081104,
+                "CHANGE_DATE": 201902081104
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538074301186027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154293.423,
+                    6578664.496,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380743,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "30",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "30",
+                "Index": "30",
+                "Adress": "Skeppsbron 38",
+                "Status": "Driftsatt",
+                "Typ": null,
+                "Beskrivning": "Tillgänglighetsanpassad, integrerad cykelpump",
+                "Färg": "Grå",
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538074301186027,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201905141353
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1659931201688886",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154601.8982,
+                    6575984.1728,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 16599312,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "Offentlig toalett",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "Offentlig toalett",
+                "Index": "Offentlig toalett",
+                "Adress": "Gullmarsplan TB - Johanneshovsvägen 3 ",
+                "Status": "Driftsatt",
+                "Typ": null,
+                "Beskrivning": "Inbyggd i byggnad",
+                "Färg": "Rostfritt",
+                "Driftansvar": "Trafikkontoret",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201902081100,
+                "VALID_TO": null,
+                "CID": 1659931201688886,
+                "CREATE_DATE": 201902081119,
+                "CHANGE_DATE": 201902270946
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530326001134744",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145226.5449,
+                    6574498.7193,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303260,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150060BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150060BT",
+                "Index": "1150060BT",
+                "Adress": "Sätradalsparken - Lövsätragränd 42",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530326001134744,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201904291338
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530325101134735",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152879.359,
+                    6578057.2135,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303251,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150051BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150051BT",
+                "Index": "1150051BT",
+                "Adress": "Ringvägen 15",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530325101134735,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201910281026
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1725199002149700",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152104.3396,
+                    6581417.9993,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 17251990,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150083BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150083BT",
+                "Index": "1150083BT",
+                "Adress": "Hälsingegatan 51",
+                "Status": "Utställd - ej i drift",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 202002251500,
+                "VALID_TO": null,
+                "CID": 1725199002149700,
+                "CREATE_DATE": 202002251534,
+                "CHANGE_DATE": 202002251604
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1725199302149711",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151139.6027,
+                    6571553.7643,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 17251993,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150084BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150084BT",
+                "Index": "1150084BT",
+                "Adress": "Vintrosagatan 28",
+                "Status": "Utställd - ej i drift",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 202002251500,
+                "VALID_TO": null,
+                "CID": 1725199302149711,
+                "CREATE_DATE": 202002251522,
+                "CHANGE_DATE": 202002251522
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1725201102149715",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    155254.2114,
+                    6582721.138,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 17252011,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150070BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150070BT",
+                "Index": "1150070BT",
+                "Adress": "Drevergatan 1B",
+                "Status": "Utställd - ej i drift",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 202002251500,
+                "VALID_TO": null,
+                "CID": 1725201102149715,
+                "CREATE_DATE": 202002251536,
+                "CHANGE_DATE": 202002251536
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530325501670185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144232.6355,
+                    6572925.3387,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303255,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150055BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150055BT",
+                "Index": "1150055BT",
+                "Adress": "Västerholmsparken",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Röd",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530325501670185,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201910281032
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530325601134740",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154032.4,
+                    6576561.0952,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303256,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150056BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150056BT",
+                "Index": "1150056BT",
+                "Adress": "Eriksdalsbadet",
+                "Status": "Utställd - ej i drift",
+                "Typ": "Jumbo",
+                "Beskrivning": "Tillgänglighetsanpassad WC, 2 x WC, 1 x urinoar",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530325601134740,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201910280956
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530326401717153",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    156603.9276,
+                    6575187.7785,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303264,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150064BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150064BT",
+                "Index": "1150064BT",
+                "Adress": "Björkhagens T-bana - Malmövägen",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530326401717153,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201904291340
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530326501670140",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143295.5933,
+                    6582854.2328,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303265,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150066BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150066BT",
+                "Index": "1150066BT",
+                "Adress": "Nordingrågatan 20 A",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530326501670140,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201910281001
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538071501185999",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153934.118,
+                    6578623.509,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380715,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "41",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "41",
+                "Index": "41",
+                "Adress": "Munkbrogatan - Lijonstedts Gränd",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 020",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grön",
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538071501185999,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201905141353
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1675300901802183",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    155836.7729,
+                    6575527.4391,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 16753009,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "Offentlig toalett",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "Offentlig toalett",
+                "Index": "Offentlig toalett",
+                "Adress": "Finn Malmgrens Plan 15",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 020",
+                "Beskrivning": null,
+                "Färg": "Grön",
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201905061600,
+                "VALID_TO": null,
+                "CID": 1675300901802183,
+                "CREATE_DATE": 201905061611,
+                "CHANGE_DATE": 201905061611
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1725054602148170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152778.3966,
+                    6580834.3506,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 17250546,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150072BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150072BT",
+                "Index": "1150072BT",
+                "Adress": "Odengatan 77",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighets anspassad",
+                "Färg": "Ljusgrå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 202002241500,
+                "VALID_TO": null,
+                "CID": 1725054602148170,
+                "CREATE_DATE": 202002241526,
+                "CHANGE_DATE": 202002241526
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530322401692879",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154666.6145,
+                    6571396.0075,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303224,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150017BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150017BT",
+                "Index": "1150017BT",
+                "Adress": "Hökarängen T-bana + PUMP inbyggd",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530322401692879,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902111008
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538074401186028",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154631.021,
+                    6575850.328,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380744,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "183",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "183",
+                "Index": "183",
+                "Adress": "Arenagången - under busstorget",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 002",
+                "Beskrivning": "Urinoarer",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538074401186028,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201902221332
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1725198902149698",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143208.6182,
+                    6573018.4937,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 17251989,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150082BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150082BT",
+                "Index": "1150082BT",
+                "Adress": "Vårbergsvägen 65",
+                "Status": "Utställd - ej i drift",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 202002251500,
+                "VALID_TO": null,
+                "CID": 1725198902149698,
+                "CREATE_DATE": 202002251529,
+                "CHANGE_DATE": 202002251529
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1725198602149695",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146507.3776,
+                    6580422.2488,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 17251986,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150076BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150076BT",
+                "Index": "1150076BT",
+                "Adress": "Klädesvägen 3",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 202002251400,
+                "VALID_TO": null,
+                "CID": 1725198602149695,
+                "CREATE_DATE": 202002251457,
+                "CHANGE_DATE": 202004240905
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530325001717129",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149671.7834,
+                    6576919.2696,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303250,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150050BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150050BT",
+                "Index": "1150050BT",
+                "Adress": "Hövdingagatan 20",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grön",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530325001717129,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201902261225
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1530325401134738",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152344.3599,
+                    6579469.5976,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15303254,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150054BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150054BT",
+                "Index": "1150054BT",
+                "Adress": "Bergsgatan",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad WC",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201801080000,
+                "VALID_TO": null,
+                "CID": 1530325401134738,
+                "CREATE_DATE": 201801081657,
+                "CHANGE_DATE": 201901280821
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538072101186005",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154105.978,
+                    6581150.212,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380721,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150079BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150079BT",
+                "Index": "1150079BT",
+                "Adress": "Valhallavägen 78 - busstorget",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538072101186005,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 202002241512
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538072301186007",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153217.098,
+                    6577881.611,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380723,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150074BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150074BT",
+                "Index": "1150074BT",
+                "Adress": "Wollmar Yxkullsgatan - Rosenlundsgatan",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538072301186007,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 202002251605
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538072801186012",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154738.476,
+                    6577502.611,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380728,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "88",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "88",
+                "Index": "88",
+                "Adress": "Skånegatan 79",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 101",
+                "Beskrivning": "Tillgänglighetsanpassad, integrerad cykelpump",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": "1$$http://tkmedia.stockholm.se/TKMedia/15303196/153/80/728/9/1/446e3dae-7191-46cf-8945-fe88a9fa9810/Nytorget (2).jpg",
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538072801186012,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201905160749
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538072901186013",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144842.345,
+                    6573519.959,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380729,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "102",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "102",
+                "Index": "102",
+                "Adress": "Skärholmsplan 6 - busstorget",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 101",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538072901186013,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201802282113
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538073001186014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154142.001,
+                    6577756.313,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380730,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "103",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "103",
+                "Index": "103",
+                "Adress": "Götgatan - Tjärhovsgatan",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 101",
+                "Beskrivning": "Tillgänglighetsanpassad, integrerad cykelpump",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538073001186014,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201802282113
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538073101186015",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152431.745,
+                    6580622.801,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380731,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150086BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150086BT",
+                "Index": "1150086BT",
+                "Adress": "Odengatan 90 - parken",
+                "Status": "Utställd - ej i drift",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538073101186015,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 202002241531
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538073301186017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148869.542,
+                    6579768.294,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380733,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150075BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150075BT",
+                "Index": "1150075BT",
+                "Adress": "Gustavlundsvägen 50 - Vidängsplan",
+                "Status": "Utställd - ej i drift",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538073301186017,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 202002251500
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538073501186019",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153474.156,
+                    6580313.629,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380735,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150078BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150078BT",
+                "Index": "1150078BT",
+                "Adress": "Sveavägen 39A",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538073501186019,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 202002241511
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538073601664440",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153927.784,
+                    6577736.2633,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380736,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "146",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "146",
+                "Index": "146",
+                "Adress": "Bangårdsgången - Fatburstrappan 20",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 101",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grön",
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538073601664440,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201902260759
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538073801186022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    155282.088,
+                    6580608.627,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380738,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "1150073BT",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "1150073BT",
+                "Index": "1150073BT",
+                "Adress": "Valhallavägen 157 - Karlaplan TB",
+                "Status": "Driftsatt",
+                "Typ": "Midi",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": "Grå",
+                "Driftansvar": "JCDecaux",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538073801186022,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 202004240852
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538073901186023",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146733.65,
+                    6587425.54,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380739,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "277",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "277",
+                "Index": "277",
+                "Adress": "Kista torg - vid Kista kyrka",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 101",
+                "Beskrivning": "Tillgänglighetsanpassad",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538073901186023,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201802282113
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538074001186024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154128.721,
+                    6579546.264,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380740,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "289",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "289",
+                "Index": "289",
+                "Adress": "Kungsträdgårdsgatan mellan 6-8",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 101",
+                "Beskrivning": "Tillgänglighetsanpassad, integrerad cykelpump",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538074001186024,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201802282113
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Toalett_Punkt.1538074201186026",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150509.894,
+                    6573731.118,
+                    0
+                ]
+            },
+            "geometry_name": "GEOMETRY",
+            "properties": {
+                "OBJECT_ID": 15380742,
+                "VERSION_ID": 1,
+                "FEATURE_TYPE_NAME": "Toalett",
+                "FEATURE_TYPE_OBJECT_ID": 15303196,
+                "FEATURE_TYPE_VERSION_ID": 1,
+                "MAIN_ATTRIBUTE_NAME": "Index",
+                "MAIN_ATTRIBUTE_VALUE": "292",
+                "MAIN_ATTRIBUTE_DESCRIPTION": "292",
+                "Index": "292",
+                "Adress": "Älvsjö torg 19",
+                "Status": "Driftsatt",
+                "Typ": "Paragon 101",
+                "Beskrivning": "Tillgänglighetsanpassad, integrerad cykelpump, kortbetalning",
+                "Färg": null,
+                "Driftansvar": "Danfo",
+                "Huvudman": "Trafikkontoret",
+                "Bilaga": null,
+                "VALID_FROM": 201802240000,
+                "VALID_TO": null,
+                "CID": 1538074201186026,
+                "CREATE_DATE": 201802282113,
+                "CHANGE_DATE": 201802282113
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::3011"
+        }
+    }
+}
